@@ -13,3 +13,7 @@
 
 ## Gugudan3
 사용자의 입력값 두개를 받아와 각각의 값에 따라 구구단을 나타낸다.
+
+------
+
+[상세코드 소스코드](https://github.com/padd60/Gugudan-java.wiki.git)
