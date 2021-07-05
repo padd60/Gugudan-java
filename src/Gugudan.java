@@ -12,18 +12,7 @@ public class Gugudan {
 			System.out.println(result[i]);
 		}
 	}
-	
-	public static void main(String[] args) {
-		for(int i=2; i < 10; i++) {
-			int[] result = caculate(i);
-			print(result);
-		}
-	}
 }
-
-
-
-
 
 
 // 반복문을 통한 2단부터 9단까지 한번에 출력하는 코
