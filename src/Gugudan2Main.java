@@ -12,5 +12,6 @@ public class Gugudan2Main {
 				System.out.println(result[j]);
 			}
 		}
+		scanner.close();
 	}
 }
