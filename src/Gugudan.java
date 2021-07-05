@@ -26,7 +26,7 @@ public class Gugudan {
 
 
 
-// 반복문을 통한 2단부터 9단까지 한번에 출력하
+// 반복문을 통한 2단부터 9단까지 한번에 출력하는 코
 //		int[] result = new int[9];
 //		for(int j = 2; j < 10; j++) {
 //			for(int i = 0; i < result.length; i++) {
