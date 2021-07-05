@@ -7,12 +7,15 @@
 
 ## Gugudan
 간단한 구구단으로 2단부터 9단까지 나타낸다.
+
 [상세코드 소스코드](https://github.com/padd60/Gugudan-java/wiki/gugudan)
 
 ## Gugudan2
 사용자의 입력값을 받아 값에 따라 구구단을 나타낸다.
+
 [상세코드 소스코드](https://github.com/padd60/Gugudan-java/wiki/gugudan2)
 
 ## Gugudan3
 사용자의 입력값 두개를 받아와 각각의 값에 따라 구구단을 나타낸다.
+
 [상세코드 소스코드](https://github.com/padd60/Gugudan-java/wiki/gugudan3)
